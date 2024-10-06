@@ -4,6 +4,7 @@ Company :CODTECH IT SOLUTIONS
 ID : CT08DS7788 
 Domain : JavaStack Web Development
 Mentor : SRAVANI GOUNI
+Duration: Aug to Sep2024
 
 ## project :Personal Portfolio Website with backend
 ## Objective :
