@@ -8,11 +8,8 @@ Duaration : Aug to Sep 2024
 ## project : Real-Time Chat Application
 ## Objective :
 To provide users with a seamless and secure real-time messaging experience, enabling instant communication across multiple devices. The application aims to support private and group chats, offer user-friendly interfaces, and ensure data privacy with end-to-end encryption. Additional features like file sharing, message notifications, and online status indicators will enhance overall user engagement and satisfaction
-
-
-
-
-
+![7](https://github.com/user-attachments/assets/5c7ad71b-ef1d-42ae-9619-999105025bcd)
+![8](https://github.com/user-attachments/assets/d6b60e03-36c7-4919-8d9e-bf634a5857dc)
 
 
 
